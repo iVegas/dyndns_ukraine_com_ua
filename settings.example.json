@@ -1,0 +1,5 @@
+{
+  "api_key": "key_is_required",
+  "domains": {},
+  "monitor_interval": 3600
+}
